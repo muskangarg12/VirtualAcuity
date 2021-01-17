@@ -6,9 +6,11 @@ Telehealth is becoming a significant part of delivering medicine to patients. Op
 
 Visual acuity testing is a basic test for an ophthalmology exam and there are no easily accessible, patient-friendly, reliable validated tools to measure it remotely. I have built a Web Application known as VirtualAcuity which enables doctors to conduct visual acuity test of a patient virtually.
 
+The application is available live at https://virtualacuity.herokuapp.com
+
 ## How we built it
 
-The Web Application, VirtualAcuity is built using Sockets and Express in NodeJs. The frontend is built using materialize design frmaework and basic HTML, CSS and Javascript. 
+The Web Application, VirtualAcuity is built using Sockets and Express in NodeJs. The frontend is built using materialize design frmaework and basic HTML, CSS and Javascript. I have deployed the web application on Heroku cloud platform.
 
 ## What's next for VirtualAcuity
 
